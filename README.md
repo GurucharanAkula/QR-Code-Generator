@@ -42,7 +42,7 @@ This project demonstrates the use of Python libraries for QR code generation, im
 ```text
 QR-Code-Generator/
 │
-├── qr_generator.py
+├── qrcodegenerator.py
 ├── requirements.txt
 ├── README.md
 ├── LICENSE
@@ -78,7 +78,7 @@ pip install -r requirements.txt
 Execute the following command:
 
 ```bash
-python qr_generator.py
+python qrcodegenerator.py
 ```
 
 ---
